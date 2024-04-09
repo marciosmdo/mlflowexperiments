@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/24d6ce9e23f245f98f6b8122ad22430b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24d6ce9e23f245f98f6b8122ad22430b
+run_name: persistent-seal-799
+run_uuid: 24d6ce9e23f245f98f6b8122ad22430b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712690192278
+status: 1
+tags: []
+user_id: marci
